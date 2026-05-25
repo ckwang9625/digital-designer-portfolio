@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2100" viewBox="0 0 1600 2100" role="img" aria-labelledby="title desc">
+  <title id="title">Concept 03 - Neural Calm one-page brand guidelines</title>
+  <desc id="desc">Colors, type, usage rules, and logo examples for Noctal.</desc>
+  <rect width="1600" height="2100" fill="#F8F6F0"/>
+  <rect x="0" y="0" width="1600" height="360" fill="#0E1B1F"/>
+  <g transform="translate(118 108)">
+    <g transform="scale(1.1)">
+      <rect x="0" y="0" width="96" height="96" rx="22" fill="#A9C9D8"/>
+      <path d="M23 52c8-18 20-18 29 0s17 18 25 0" fill="none" stroke="#0E1B1F" stroke-width="7" stroke-linecap="round"/>
+      <path d="M24 66h48" stroke="#F8F6F0" stroke-opacity=".72" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="28" cy="39" r="5.5" fill="#0E1B1F"/>
+      <circle cx="68" cy="39" r="5.5" fill="#0E1B1F"/>
+    </g></g>
+  <text x="250" y="178" fill="#F8F6F0" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="92" font-weight="600">Noctàl</text>
+  <text x="254" y="238" fill="#D7D2C8" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="4">ONE-PAGE BRAND GUIDELINES</text>
+  <text x="118" y="470" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="650">Concept 03 - Neural Calm</text>
+  <text x="118" y="530" fill="#4C4842" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="450">A calmer signal-wave mark that suggests mental quiet without using generic moon or star symbols.</text>
+
+  <text x="118" y="660" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="650">Color Palette</text>
+  <g transform="translate(118 700)">
+    <rect x="0" y="0" width="300" height="170" rx="8" fill="#0E1B1F"/><text x="0" y="220" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="24">#0E1B1F</text>
+    <rect x="345" y="0" width="300" height="170" rx="8" fill="#F8F6F0" stroke="#D8D1C6"/><text x="345" y="220" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="24">#F8F6F0</text>
+    <rect x="690" y="0" width="300" height="170" rx="8" fill="#A9C9D8"/><text x="690" y="220" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="24">#A9C9D8</text>
+    <rect x="1035" y="0" width="300" height="170" rx="8" fill="#E5BCA6"/><text x="1035" y="220" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="24">#E5BCA6</text>
+  </g>
+
+  <text x="118" y="1040" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="650">Typography</text>
+  <text x="118" y="1106" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="650">Avenir Next / Inter / Helvetica Neue</text>
+  <text x="118" y="1160" fill="#4C4842" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="28">Use a clean humanist sans serif. Keep tracking at 0 for display text; use light caps tracking for small labels only.</text>
+
+  <text x="118" y="1295" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="650">Logo Usage</text>
+  <g transform="translate(118 1340)">
+    <rect x="0" y="0" width="610" height="300" rx="8" fill="#0E1B1F"/>
+    <g transform="translate(56 82)">
+    <g transform="scale(0.74)">
+      <rect x="0" y="0" width="96" height="96" rx="22" fill="#A9C9D8"/>
+      <path d="M23 52c8-18 20-18 29 0s17 18 25 0" fill="none" stroke="#0E1B1F" stroke-width="7" stroke-linecap="round"/>
+      <path d="M24 66h48" stroke="#F8F6F0" stroke-opacity=".72" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="28" cy="39" r="5.5" fill="#0E1B1F"/>
+      <circle cx="68" cy="39" r="5.5" fill="#0E1B1F"/>
+    </g></g>
+    <text x="150" y="150" fill="#F8F6F0" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="70" font-weight="600">Noctàl</text>
+    <text x="150" y="198" fill="#D7D2C8" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="3">DISSOLVABLE SLEEP STRIPS</text>
+    <text x="0" y="350" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="24">Preferred dark-background lockup.</text>
+
+    <rect x="720" y="0" width="610" height="300" rx="8" fill="#FFFFFF" stroke="#D8D1C6"/>
+    <g transform="translate(776 82)">
+    <g transform="scale(0.74)">
+      <rect x="0" y="0" width="96" height="96" rx="22" fill="#A9C9D8"/>
+      <path d="M23 52c8-18 20-18 29 0s17 18 25 0" fill="none" stroke="#0E1B1F" stroke-width="7" stroke-linecap="round"/>
+      <path d="M24 66h48" stroke="#F8F6F0" stroke-opacity=".72" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="28" cy="39" r="5.5" fill="#0E1B1F"/>
+      <circle cx="68" cy="39" r="5.5" fill="#0E1B1F"/>
+    </g></g>
+    <text x="870" y="150" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="70" font-weight="600">Noctàl</text>
+    <text x="870" y="198" fill="#57534D" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="3">DISSOLVABLE SLEEP STRIPS</text>
+    <text x="720" y="350" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="24">Use light version on white or warm neutral fields.</text>
+  </g>
+
+  <text x="118" y="1810" fill="#0E1B1F" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="650">Dos and Don'ts</text>
+  <text x="118" y="1870" fill="#4C4842" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="28">Do preserve clear space equal to the icon width. Do use high contrast. Do keep the accent mark in Noctàl.</text>
+  <text x="118" y="1922" fill="#4C4842" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="28">Don't add moons, stars, gradients, drop shadows, pill imagery, or clinical blue-white medical styling.</text>
+  <text x="118" y="1974" fill="#4C4842" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="28">Don't stretch the wordmark, rotate the icon, lower contrast, or place the logo on busy photography.</text>
+</svg>

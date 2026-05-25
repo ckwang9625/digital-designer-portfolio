@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Concept 02 - Dissolve Strip Noctal primary logo light</title>
+  <desc id="desc">Premium sleep supplement wordmark and icon sample for Noctal.</desc>
+  <rect width="1600" height="720" fill="#FAF8F3"/>
+  <g transform="translate(180 208)">
+    
+      <g transform="scale(1.45)">
+        <rect x="0" y="0" width="96" height="96" rx="20" fill="#C9B6E4"/>
+        <path d="M24 34c0-5 4-9 9-9h30c5 0 9 4 9 9v28c0 5-4 9-9 9H33c-5 0-9-4-9-9V34z" fill="#FAF8F3" opacity=".9"/>
+        <path d="M32 43h31M32 53h24" stroke="#17151C" stroke-width="6" stroke-linecap="round"/>
+        <circle cx="66" cy="53" r="3.5" fill="#17151C"/>
+        <circle cx="74" cy="61" r="2.4" fill="#17151C" opacity=".66"/>
+      </g>
+  </g>
+  <g transform="translate(360 244)">
+    <text x="0" y="82" fill="#17151C" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="118" font-weight="600" letter-spacing="0">Noctàl</text>
+    <text x="4" y="144" fill="#57534D" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="500" letter-spacing="5">DISSOLVABLE SLEEP STRIPS</text>
+    <path d="M4 178h598" stroke="#C9B6E4" stroke-width="6" stroke-linecap="round"/>
+    <text x="4" y="230" fill="#57534D" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="0">Fast calm, clean morning.</text>
+  </g>
+</svg>

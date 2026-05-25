@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Concept 01 - Switch Off transparent logo light</title>
+  <desc id="desc">Transparent-background vector logo sample for Noctal.</desc>
+  <g transform="translate(150 132)">
+    
+      <g transform="scale(1.28)">
+        <rect x="0" y="0" width="96" height="96" rx="22" fill="#B8D8C8"/>
+        <path d="M48 18v28" stroke="#101820" stroke-width="8" stroke-linecap="round"/>
+        <path d="M33.2 31.5a27 27 0 1 0 29.6 0" fill="none" stroke="#101820" stroke-width="8" stroke-linecap="round"/>
+        <path d="M30 70c11 5.5 25 5.5 36 0" stroke="#101820" stroke-opacity=".44" stroke-width="4" stroke-linecap="round"/>
+      </g>
+  </g>
+  <g transform="translate(315 154)">
+    <text x="0" y="82" fill="#101820" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="112" font-weight="600" letter-spacing="0">Noctàl</text>
+    <text x="4" y="142" fill="#57534D" font-family="Avenir Next, Inter, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="500" letter-spacing="5">DISSOLVABLE SLEEP STRIPS</text>
+  </g>
+</svg>
